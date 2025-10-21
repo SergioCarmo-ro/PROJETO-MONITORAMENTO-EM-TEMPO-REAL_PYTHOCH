@@ -148,10 +148,13 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau
 👨‍💻 Autor
 
 Sérgio Ademir Rocha do Carmo
+
 📍 Amazonas – Brasil
+
 💡 Desenvolvedor e Pesquisador em Sistemas Inteligentes e Visão Computacional.
 
 🧾 Licença
 
 Este projeto é de uso acadêmico e experimental.
+
 © 2025 Sérgio Ademir Rocha do Carmo – Todos os direitos reservados.
