@@ -33,28 +33,39 @@ PROJETO-MONITORAMENTO-EM-TEMPO-REAL_PYTHOCH/
 │
 
 ├── dataset/
+
 │ ├── train/
+
 │ ├── val/
+
 │ └── test/
 
 │
 
 ├── models/
+
 │ ├── resnet_model.py
+
 │ ├── vgg_model.py
+
 │ └── init.py
 
 │
 
 ├── utils/
+
 │ ├── preprocessing.py
+
 │ ├── visualization.py
+
 │ └── dataset_loader.py
 
 │
 
 ├── main.py
+
 ├── requirements.txt
+
 └── README.md
 
 
